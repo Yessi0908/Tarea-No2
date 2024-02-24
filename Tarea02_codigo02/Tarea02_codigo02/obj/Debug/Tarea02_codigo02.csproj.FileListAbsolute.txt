@@ -1,0 +1,7 @@
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\bin\Debug\Tarea02_codigo02.exe.config
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\bin\Debug\Tarea02_codigo02.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\bin\Debug\Tarea02_codigo02.pdb
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\obj\Debug\Tarea02_codigo02.csproj.AssemblyReference.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\obj\Debug\Tarea02_codigo02.csproj.CoreCompileInputs.cache
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\obj\Debug\Tarea02_codigo02.exe
+C:\Users\juana\Desktop\Tareas proga 01\Tarea 02\Tarea02_codigo02\Tarea02_codigo02\obj\Debug\Tarea02_codigo02.pdb
