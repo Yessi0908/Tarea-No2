@@ -1,7 +1,0 @@
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\bin\Debug\Tarea02-codigo01.exe.config
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\bin\Debug\Tarea02-codigo01.exe
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\bin\Debug\Tarea02-codigo01.pdb
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\obj\Debug\Tarea02-codigo01.csproj.AssemblyReference.cache
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\obj\Debug\Tarea02-codigo01.csproj.CoreCompileInputs.cache
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\obj\Debug\Tarea02-codigo01.exe
-C:\Users\juana\Desktop\Tarea02-codigo01\Tarea02-codigo01\obj\Debug\Tarea02-codigo01.pdb
